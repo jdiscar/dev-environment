@@ -1,0 +1,5 @@
+http://download.scala-ide.org/sdk/e37/scala210/stable/site
+Subversion: http://subclipse.tigris.org/update_1.6.x
+http://marketplace.eclipse.org/content/pydev-python-ide-eclipse#.UZvBQLWce9E
+http://marketplace.eclipse.org/content/maven-integration-eclipse#.UZvBO7Wce9E
+http://marketplace.eclipse.org/content/egit-git-team-provider#.UZvBNrWce9E
